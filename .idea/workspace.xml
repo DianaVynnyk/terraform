@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efec1c63-3e1b-4f16-8643-5915b8f2604d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/terraform1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/outputs.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/variables.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/beanstalk/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/beanstalk/variables.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/db/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/db/outputs.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/db/variables.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/network/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/network/outputs.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/network/variables.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terraform.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Nmqy1gLyR1fTDHvn5vuk0Z9sAQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/terraform1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efec1c63-3e1b-4f16-8643-5915b8f2604d" name="Changes" comment="" />
+      <created>1680279857860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680279857860</updated>
+      <workItem from="1680279859126" duration="1030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
